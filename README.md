@@ -12,6 +12,8 @@ This public repository contains launcher announcements only. It does not contain
 
 Supported notice types are `info`, `update`, `warning`, and `maintenance`.
 
+Use `releaseUrl` for the notice's **View Release** button. For security, it must point to `https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/`.
+
 Set `enabled` to `false` to stop showing the notice. When `dismissible` is `true`, a user sees each `noticeId` once after dismissing it. When it is `false`, the notice appears again on their next launcher startup.
 
 Do not put passwords, API keys, GitHub tokens, private URLs, or other secrets in this repository.
