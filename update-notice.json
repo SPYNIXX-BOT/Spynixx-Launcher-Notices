@@ -6,8 +6,8 @@
   "title": "Spynixx Launcher v1.2.1 Available",
   "date": "2026-09-07",
   "content": [
-    "Your installed Spynixx Launcher version is outdated.",
-    "Version 1.2.1 includes the new announcement center, update notifications, and interface improvements.",
+    "Spynixx Launcher v1.2.1 is now available for download.",
+    "This update adds official launcher player detection for compatible open.mp servers and improves secure server verification settings.",
     "Open the official release page to download and install the latest MSI."
   ],
   "releaseUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/",
