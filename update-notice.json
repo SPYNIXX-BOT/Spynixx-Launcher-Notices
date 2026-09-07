@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "enabled": true,
+  "noticeId": "welcome-global-notice-2026-09-07",
+  "type": "update",
+  "title": "Spynixx Launcher Update Notice",
+  "date": "2026-09-07",
+  "content": [
+    "The global update notice system is now active.",
+    "Future announcements will appear automatically when the launcher starts.",
+    "Change the noticeId whenever you want all users to see a new notice."
+  ],
+  "dismissible": true
+}
