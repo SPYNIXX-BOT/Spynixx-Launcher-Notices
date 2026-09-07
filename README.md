@@ -12,6 +12,8 @@ This public repository contains launcher announcements only. It does not contain
 
 Supported notice types are `info`, `update`, `warning`, and `maintenance`.
 
+Set `latestVersion` for launcher updates. The startup popup is shown only when the installed launcher version is older. Remove `latestVersion` for a general announcement that should pop up for every launcher version.
+
 Use `releaseUrl` for the notice's **View Release** button. For security, it must point to `https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/`.
 
 Set `enabled` to `false` to stop showing the notice. An enabled announcement appears when the launcher starts and remains available from the Announcements button in the sidebar.

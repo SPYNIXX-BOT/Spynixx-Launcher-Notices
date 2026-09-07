@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
   "enabled": true,
-  "noticeId": "welcome-global-notice-2026-09-07",
+  "noticeId": "launcher-update-v1.2.1",
   "type": "update",
-  "title": "Spynixx Launcher Update Notice",
+  "title": "Spynixx Launcher v1.2.1 Available",
   "date": "2026-09-07",
   "content": [
-    "The global update notice system is now active.",
-    "Future announcements will appear automatically when the launcher starts.",
-    "Change the noticeId whenever you want all users to see a new notice."
+    "Your installed Spynixx Launcher version is outdated.",
+    "Version 1.2.1 includes the new announcement center, update notifications, and interface improvements.",
+    "Open the official release page to download and install the latest MSI."
   ],
   "releaseUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/",
   "dismissible": true
