@@ -10,6 +10,6 @@
     "Future announcements will appear automatically when the launcher starts.",
     "Change the noticeId whenever you want all users to see a new notice."
   ],
-  "releaseUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/tag/v1.2.0",
+  "releaseUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/",
   "dismissible": true
 }
