@@ -1,13 +1,15 @@
 {
   "schemaVersion": 1,
   "enabled": true,
-  "noticeId": "launcher-update-v1.2.1",
+  "noticeId": "launcher-update-v1.2.2",
   "type": "update",
-  "title": "Spynixx Launcher v1.2.1 Available",
-  "date": "2026-09-07",
+  "title": "Spynixx Launcher v1.2.2 Available",
+  "date": "2026-09-08",
+  "latestVersion": "1.2.2",
   "content": [
-    "Spynixx Launcher v1.2.1 is now available for download.",
-    "This update adds official launcher player detection for compatible open.mp servers and improves secure server verification settings.",
+    "Spynixx Launcher v1.2.2 is now available for download.",
+    "This update restores SampVoice microphone detection for standalone SA-MP launches without requiring samp.exe.",
+    "Game startup is now faster, and Settings includes a native Windows microphone preflight with detected device names.",
     "Open the official release page to download and install the latest MSI."
   ],
   "releaseUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/",
