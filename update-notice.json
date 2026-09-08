@@ -5,7 +5,6 @@
   "type": "update",
   "title": "Spynixx Launcher v1.2.2 Available",
   "date": "2026-09-08",
-  "latestVersion": "1.2.2",
   "content": [
     "Spynixx Launcher v1.2.2 is now available for download.",
     "This update restores SampVoice microphone detection for standalone SA-MP launches without requiring samp.exe.",
