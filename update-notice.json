@@ -3,12 +3,15 @@
   "enabled": true,
   "noticeId": "launcher-update-v1.2.2",
   "type": "update",
-  "title": "Spynixx Launcher v1.2.2 Available",
-  "date": "2026-09-08",
+  "title": "Spynixx Launcher v1.2.2 - Server Banner Update",
+  "date": "2026-09-09",
   "content": [
     "Spynixx Launcher v1.2.2 is now available for download.",
     "This update restores SampVoice microphone detection for standalone SA-MP launches without requiring samp.exe.",
     "Game startup is now faster, and Settings includes a native Windows microphone preflight with detected device names.",
+    "Open.mp servers can now display custom banners in the server list and Server Information dashboard.",
+    "Server banners support PNG, JPG, WebP, and animated GIF using a direct HTTPS image URL in the open.mp config.json banners section.",
+    "Recommended server banner size is 2048 x 682 pixels with an approximately 3:1 aspect ratio.",
     "Open the official release page to download and install the latest MSI."
   ],
   "releaseUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/",
