@@ -3,8 +3,9 @@
   "enabled": true,
   "noticeId": "launcher-update-v1.2.3",
   "type": "update",
-  "title": "Spynixx Launcher v1.2.3 - Server Banner Update",
+  "title": "Spynixx Launcher v1.2.3 - Server Banner & Discord Update",
   "date": "2026-09-09",
+  "latestVersion": "1.2.3",
   "content": [
     "Spynixx Launcher v1.2.3 is now available for download.",
     "Open.mp servers can now display custom banners in the server list and Server Information dashboard.",
@@ -12,6 +13,8 @@
     "Recommended server banner size is 2048 x 682 pixels with an approximately 3:1 aspect ratio.",
     "Selected-server status, ping, and player counts now refresh every second using lightweight queries with safer rate limiting.",
     "Every server card now includes a copy-address action with visible clipboard confirmation.",
+    "Joined open.mp servers can now add an optional Server Discord button to the player's Discord Rich Presence using the discord.invite value in config.json.",
+    "The server Discord button appears only while playing and automatically uses the joined server name, while the main Spynixx community button remains available.",
     "Open the official release page to download and install the latest MSI."
   ],
   "releaseUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/",
