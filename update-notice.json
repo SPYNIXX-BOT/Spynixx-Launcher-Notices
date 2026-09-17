@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "enabled": true,
-  "noticeId": "launcher-update-v1.2.5",
+  "noticeId": "launcher-update-v1.2.6",
   "type": "update",
-  "title": "Spynixx Launcher v1.2.5 - Secure One-Click Updates",
+  "title": "Spynixx Launcher v1.2.6 - Custom Wallpaper Themes",
   "date": "2026-09-17",
-  "latestVersion": "1.2.5",
+  "latestVersion": "1.2.6",
   "content": [
-    "Spynixx Launcher v1.2.5 is now available.",
-    "Added secure one-click launcher updates with an Update Now button.",
-    "Download progress, installation status, retry handling, and manual update checks are now shown inside the launcher.",
-    "Every update package is cryptographically verified before Windows installs it.",
-    "Launcher releases are distributed separately through the official Spynixx Launcher Notices repository."
+    "Spynixx Launcher v1.2.6 is now available.",
+    "Added Alyn-style Custom Background Wallpaper support under Settings > Appearance & Wallpaper.",
+    "Choose your own image wallpaper (.jpg, .png, .webp) directly from your computer.",
+    "Adjust dynamic background blur (0px - 20px) and dark dim overlay (20% - 95%) with instant preview.",
+    "Click Update Now below to automatically download and upgrade your launcher."
   ],
   "releaseUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/",
   "dismissible": true
