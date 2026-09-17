@@ -3,16 +3,15 @@
   "enabled": true,
   "noticeId": "launcher-update-v1.2.6",
   "type": "update",
-  "title": "Spynixx Launcher v1.2.6 Release",
+  "title": "Spynixx Launcher v1.2.6",
   "date": "2026-09-17",
   "latestVersion": "1.2.6",
   "content": [
     "Spynixx Launcher v1.2.6 is now available.",
-    "Added built-in SA-MP Chatlog Viewer & Searcher tab with real-time text query and instant keyword filtering.",
-    "Integrated dedicated chatlog category filters for PMs, Radio/Dept chatter, Local actions, and Admin/Server alerts.",
-    "Added one-click Copy Filtered Lines, Open Folder in Explorer, and Auto-scroll to bottom controls.",
-    "Integrated native in-launcher background auto-updater with live progress tracking and automated install.",
-    "Added manual Check for Updates button under Settings > About Spynixx Launcher."
+    "Added SA-MP Chatlog Viewer & Searcher with category filters, copy, and open folder actions.",
+    "Integrated native in-launcher auto-updater with live download progress and silent install.",
+    "Added manual Check for Updates button under Settings > About.",
+    "Click Update Now below to automatically download and upgrade your launcher."
   ],
   "releaseUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/",
   "dismissible": true
