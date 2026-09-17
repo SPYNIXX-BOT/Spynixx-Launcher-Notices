@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "enabled": true,
-  "noticeId": "launcher-update-v1.2.4",
+  "noticeId": "launcher-update-v1.2.5",
   "type": "update",
-  "title": "Spynixx Launcher v1.2.4 - Custom Server Discord RPC Logo",
-  "date": "2026-09-13",
+  "title": "Spynixx Launcher v1.2.5 - Secure One-Click Updates",
+  "date": "2026-09-17",
+  "latestVersion": "1.2.5",
   "content": [
-    "Spynixx Launcher v1.2.4 is now available for download.",
-    "Servers can now show their own custom logo as the main Large Image in Discord Rich Presence while players are in-game.",
-    "Server owners can set their logo using the open.mp/SA-MP server rule: SetServerRule(\"logo\", \"https://...\") in their gamemode script or config.",
-    "Automatic fallback to the Spynixx logo is maintained when unconfigured or while browsing the launcher menu.",
-    "Discord activity updates immediately upon connecting to a supported server.",
-    "Open the official release page to download and install the latest version."
+    "Spynixx Launcher v1.2.5 is now available.",
+    "Added secure one-click launcher updates with an Update Now button.",
+    "Download progress, installation status, retry handling, and manual update checks are now shown inside the launcher.",
+    "Every update package is cryptographically verified before Windows installs it.",
+    "Launcher releases are distributed separately through the official Spynixx Launcher Notices repository."
   ],
   "releaseUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/",
   "dismissible": true
