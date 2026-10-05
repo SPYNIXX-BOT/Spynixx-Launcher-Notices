@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
   "enabled": true,
-  "noticeId": "launcher-update-v1.2.7",
+  "noticeId": "launcher-update-v1.2.8",
   "type": "update",
-  "title": "Spynixx Launcher v1.2.7",
-  "date": "2026-09-20",
-  "latestVersion": "1.2.7",
+  "title": "Spynixx Launcher v1.2.8",
+  "date": "2026-10-05",
+  "latestVersion": "1.2.8",
   "content": [
-    "Spynixx Launcher v1.2.7 is now available.",
-    "Instant server status checking: IP addresses added to the Server Browser now resolve immediately without queue delays.",
-    "Bilingual (Tagalog & English) Clean GTA advisory notice when choosing managed SA-MP versions.",
-    "Direct one-click button to download Spynixx Clean GTA Folder via Mediafire.",
-    "Optimized backend query concurrency and fixed external download URL opening.",
+    "Spynixx Launcher v1.2.8 is now available.",
+    "Startup progress now follows real configuration, GTA detection, and per-version client verification stages.",
+    "Improved GTA launch verification: the launcher waits for a stable visible game window before confirming that the game is running.",
+    "Ctrl+R now reloads the launcher interface without returning to the startup splash or repeating verified client scans.",
+    "Streamlined the launcher by removing unused tabs and settings clutter, with compact Client & Voice Preflight controls.",
     "Click Update Now below to automatically download and upgrade your launcher."
   ],
-  "releaseUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/",
+  "releaseUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/tag/v1.2.8",
   "dismissible": true
 }
