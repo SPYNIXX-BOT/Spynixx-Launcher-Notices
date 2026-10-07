@@ -15,7 +15,7 @@
     "Click Update Now below to securely download, verify, and install the new build."
   ],
   "releaseUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/tag/v1.2.9",
-  "downloadUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/download/v1.2.9/Spynixx.Launcher_1.2.9_x86.msi",
-  "sha256": "05bc0cb38aefb308496d44b9bd5045905bf498c02922285854d569ed46029be6",
+  "downloadUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/download/v1.2.9/Spynixx.Launcher_1.2.9.msi",
+  "sha256": "473ab9daa102efb463018767e18d29468f29314ade6a9823aa7cf7f0edba404a",
   "dismissible": true
 }

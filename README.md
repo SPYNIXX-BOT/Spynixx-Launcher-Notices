@@ -16,7 +16,9 @@ Set `latestVersion` for launcher updates. The startup popup is shown only when t
 
 Use `releaseUrl` for the notice's **View Release** button. For security, it must point to `https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/`.
 
-Optional `downloadUrl`: Specify a direct release package URL (must start with `https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/download/`). If omitted, the launcher automatically resolves to `Spynixx.Launcher_{latestVersion}.msi` for in-app one-click update.
+For an `update` notice, `downloadUrl` and `sha256` are required. `downloadUrl` must be the exact URL of an uploaded `.msi` or `.exe` asset under `https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/download/`. `sha256` must be the lowercase SHA-256 digest of that exact asset. The launcher deliberately does not guess release filenames.
+
+Launcher releases must be published by the launcher's `publish-release.yml` workflow. It validates that the tag and all project versions match, publishes the installer and updater signature, generates `latest.json`, verifies its download URL character-for-character, and updates this notice from the published asset.
 
 Set `enabled` to `false` to stop showing the notice. An enabled announcement appears when the launcher starts and remains available from the Announcements button in the sidebar.
 
