@@ -1,21 +1,22 @@
 {
   "schemaVersion": 1,
   "enabled": true,
-  "noticeId": "launcher-update-v1.2.11",
+  "noticeId": "launcher-update-v1.2.9",
   "type": "update",
-  "title": "Spynixx Launcher v1.2.11",
+  "title": "Spynixx Launcher v1.2.9",
   "date": "2026-10-08",
-  "latestVersion": "1.2.11",
+  "latestVersion": "1.2.9",
   "content": [
-    "Spynixx Launcher v1.2.11 is now available.",
-    "The updater now waits for the old launcher process to fully exit before starting MSI installation.",
-    "The launcher restarts only after Windows Installer reports a successful update.",
-    "Update retries refresh the latest trusted installer URL and SHA-256 metadata.",
-    "Preserved mandatory SHA-256 package verification.",
-    "Click Update Now below to securely download, verify, and install the new build."
+    "Spynixx Launcher v1.2.9 is now available.",
+    "Improved GTA SA and SA-MP startup compatibility for installations using normal ASI plugin stacks.",
+    "Startup monitoring now distinguishes slow mod initialization from a genuine startup stall using process, module, thread, and window progress.",
+    "Fixed a diagnostic arithmetic overflow that could leave the launcher stuck on Starting.",
+    "Preserved verified exact-process cleanup and added session recovery after unexpected monitor failures.",
+    "Restored the proven automatic update download, installation, and restart flow.",
+    "Click Update Now below to automatically download and upgrade your launcher."
   ],
-  "releaseUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/tag/v1.2.11",
-  "downloadUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/download/v1.2.11/Spynixx.Launcher_1.2.11_x86.msi",
-  "sha256": "6ca880eee878cc1b6e9491a149645072760fa333c75dfe670215ef4e2c353a96",
+  "releaseUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/tag/v1.2.9",
+  "downloadUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/download/v1.2.9/Spynixx.Launcher_1.2.9_x86.msi",
+  "sha256": "547ac61a82e2cf8de99ac243f08beb6c9df429ecfa36217952c37c976680ad17",
   "dismissible": true
 }
