@@ -13,8 +13,6 @@
     "Preserved mandatory SHA-256 verification with clearer checksum mismatch diagnostics.",
     "Click Update Now below to securely download, verify, and install the new build."
   ],
-  "releaseUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/tag/v1.2.10",
-  "downloadUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/download/v1.2.10/Spynixx.Launcher_1.2.10_x86.msi",
-  "sha256": "01a2665495f8f2944b0400bfcb6e5b8fc74fb1733b42c4d640f02e5db7161bb9",
+  "releaseUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/",
   "dismissible": true
 }
