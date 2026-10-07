@@ -1,18 +1,21 @@
 {
   "schemaVersion": 1,
   "enabled": true,
-  "noticeId": "launcher-update-v1.2.10",
+  "noticeId": "launcher-update-v1.2.11",
   "type": "update",
-  "title": "Spynixx Launcher v1.2.10",
+  "title": "Spynixx Launcher v1.2.11",
   "date": "2026-10-08",
-  "latestVersion": "1.2.10",
+  "latestVersion": "1.2.11",
   "content": [
-    "Spynixx Launcher v1.2.10 is now available.",
-    "Update retries now refresh the latest trusted installer URL and SHA-256 metadata instead of reusing stale values.",
-    "Improved update notice cache-busting for rapid metadata corrections.",
-    "Preserved mandatory SHA-256 verification with clearer checksum mismatch diagnostics.",
+    "Spynixx Launcher v1.2.11 is now available.",
+    "The updater now waits for the old launcher process to fully exit before starting MSI installation.",
+    "The launcher restarts only after Windows Installer reports a successful update.",
+    "Update retries refresh the latest trusted installer URL and SHA-256 metadata.",
+    "Preserved mandatory SHA-256 package verification.",
     "Click Update Now below to securely download, verify, and install the new build."
   ],
-  "releaseUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/",
+  "releaseUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/tag/v1.2.11",
+  "downloadUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/download/v1.2.11/Spynixx.Launcher_1.2.11_x86.msi",
+  "sha256": "6ca880eee878cc1b6e9491a149645072760fa333c75dfe670215ef4e2c353a96",
   "dismissible": true
 }
