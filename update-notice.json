@@ -12,8 +12,10 @@
     "Startup monitoring now distinguishes slow mod initialization from a genuine startup stall using process, module, thread, and window progress.",
     "Fixed a diagnostic arithmetic overflow that could leave the launcher stuck on Starting.",
     "Preserved verified exact-process cleanup and added session recovery after unexpected monitor failures.",
-    "Install the new build to receive the compatibility and diagnostic hotfixes."
+    "Click Update Now below to securely download, verify, and install the new build."
   ],
   "releaseUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/tag/v1.2.9",
+  "downloadUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/download/v1.2.9/Spynixx.Launcher_1.2.9_x86.msi",
+  "sha256": "05bc0cb38aefb308496d44b9bd5045905bf498c02922285854d569ed46029be6",
   "dismissible": true
 }
