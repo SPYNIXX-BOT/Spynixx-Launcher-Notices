@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
   "enabled": true,
-  "noticeId": "launcher-update-v1.2.8",
+  "noticeId": "launcher-update-v1.2.9",
   "type": "update",
-  "title": "Spynixx Launcher v1.2.8",
-  "date": "2026-10-05",
-  "latestVersion": "1.2.8",
+  "title": "Spynixx Launcher v1.2.9",
+  "date": "2026-10-07",
+  "latestVersion": "1.2.9",
   "content": [
-    "Spynixx Launcher v1.2.8 is now available.",
-    "Startup progress now follows real configuration, GTA detection, and per-version client verification stages.",
-    "Improved GTA launch verification: the launcher waits for a stable visible game window before confirming that the game is running.",
-    "Ctrl+R now reloads the launcher interface without returning to the startup splash or repeating verified client scans.",
-    "Streamlined the launcher by removing unused tabs and settings clutter, with compact Client & Voice Preflight controls.",
-    "Click Update Now below to automatically download and upgrade your launcher."
+    "Spynixx Launcher v1.2.9 is now available.",
+    "Improved GTA SA and SA-MP startup compatibility for installations using normal ASI plugin stacks.",
+    "Startup monitoring now distinguishes slow mod initialization from a genuine startup stall using process, module, thread, and window progress.",
+    "Fixed a diagnostic arithmetic overflow that could leave the launcher stuck on Starting.",
+    "Preserved verified exact-process cleanup and added session recovery after unexpected monitor failures.",
+    "Install the new build to receive the compatibility and diagnostic hotfixes."
   ],
-  "releaseUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/tag/v1.2.8",
+  "releaseUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/tag/v1.2.9",
   "dismissible": true
 }
