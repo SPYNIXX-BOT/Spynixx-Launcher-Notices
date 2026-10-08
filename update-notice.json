@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "enabled": true,
-  "noticeId": "launcher-update-v1.2.9",
+  "noticeId": "launcher-update-v1.2.10",
   "type": "update",
-  "title": "Spynixx Launcher v1.2.9",
+  "title": "Spynixx Launcher v1.2.10",
   "date": "2026-10-08",
-  "latestVersion": "1.2.9",
+  "latestVersion": "1.2.10",
   "content": [
     "Spynixx Launcher v1.2.9 is now available.",
     "Improved GTA SA and SA-MP startup compatibility for installations using normal ASI plugin stacks.",
