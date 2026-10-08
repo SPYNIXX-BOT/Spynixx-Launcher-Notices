@@ -7,7 +7,7 @@
   "date": "2026-10-08",
   "latestVersion": "1.2.10",
   "content": [
-    "Spynixx Launcher v1.2.9 is now available.",
+    "Spynixx Launcher v1.2.10 is now available.",
     "Improved GTA SA and SA-MP startup compatibility for installations using normal ASI plugin stacks.",
     "Startup monitoring now distinguishes slow mod initialization from a genuine startup stall using process, module, thread, and window progress.",
     "Fixed a diagnostic arithmetic overflow that could leave the launcher stuck on Starting.",
