@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "enabled": true,
-  "noticeId": "launcher-update-v1.2.10",
+  "noticeId": "launcher-update-v1.2.11",
   "type": "update",
-  "title": "Spynixx Launcher v1.2.10",
+  "title": "Spynixx Launcher v1.2.11",
   "date": "2026-10-08",
-  "latestVersion": "1.2.10",
+  "latestVersion": "1.2.11",
   "content": [
-    "Spynixx Launcher v1.2.10 is now available.",
+    "Spynixx Launcher v1.2.11 is now available.",
     "Improved GTA SA and SA-MP startup compatibility for installations using normal ASI plugin stacks.",
     "Startup monitoring now distinguishes slow mod initialization from a genuine startup stall using process, module, thread, and window progress.",
     "Fixed a diagnostic arithmetic overflow that could leave the launcher stuck on Starting.",
@@ -15,8 +15,8 @@
     "Restored the proven automatic update download, installation, and restart flow.",
     "Click Update Now below to automatically download and upgrade your launcher."
   ],
-  "releaseUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/tag/v1.2.10",
-  "downloadUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/download/v1.2.10/Spynixx.Launcher_1.2.10_x86.msi",
-  "sha256": "07b98c708f8bf226f0f730aaba2ff3dd3bda48ef19b19152b8ffb7d17b7cf069",
+  "releaseUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/tag/v1.2.11",
+  "downloadUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/download/v1.2.11/Spynixx.Launcher_1.2.11_x86.msi",
+  "sha256": "3bb2c2ba76910c1391fc645ec20b98282500bfa2d6d79c8de229c4e7da0e92bd",
   "dismissible": true
 }
