@@ -15,8 +15,6 @@
     "Restored the proven automatic update download, installation, and restart flow.",
     "Click Update Now below to automatically download and upgrade your launcher."
   ],
-  "releaseUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/tag/v1.2.9",
-  "downloadUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/download/v1.2.9/Spynixx.Launcher_1.2.9_x86.msi",
-  "sha256": "2df50291beddc4774ba3b60eefd91c72dc0a57fdc2c65c448acebad5789da81f",
+  "releaseUrl": "https://github.com/SPYNIXX-BOT/Spynixx-Launcher-Notices/releases/",
   "dismissible": true
 }
